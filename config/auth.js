@@ -8,7 +8,7 @@ module.exports = {
         'clientID': '1035056279864779',
         // your App Secret
         'clientSecret': process.env.CLIENTSECRET,
-        'callbackURL': 'http://mean268.herokuapp.com/auth/facebook/callback'
+        'callbackURL': 'http://mean-deploy-demo.herokuapp.com/auth/facebook/callback'
     },
     // 作業
     'googleAuth': {
